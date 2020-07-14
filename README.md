@@ -7,7 +7,7 @@ In this context it can be defined by two points such as major cities.
 In a Proj4 string, e.g. for Toronto <-> Perth:
 `+proj=omerc +lon_1=-79 +lat_1=43 +lon_2=116 +lat_2=-31 +ellps=GRS80`
 
-![sample Oblique Mercator projection](samples/oblique-mercator-Toronto-to-perth.png)
+![sample Oblique Mercator projection](samples/oblique-mercator-Toronto-to-Perth.png)
 
 ### Canada
 * **Vancouver**: 49,-123
