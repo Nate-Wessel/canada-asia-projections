@@ -15,7 +15,7 @@ code in (
 	'IND','BGD','BTN','PAK','NPL','LKA',
 	-- SE Asia
 	'PNG','PHL','IDN','KHM','THA','LAO',
-	'VNM','MMR','MYS','BRN',
+	'VNM','MMR','MYS','BRN','SGP',
 	-- Oceania
 	'AUS','NZL','PNG','SLB','VUT','NCL','FJI','TLS',
 	-- etc
