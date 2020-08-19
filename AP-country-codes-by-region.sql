@@ -11,13 +11,14 @@ code in (
 	'CHN','MNG','HKG','JPN','KOR','PRK','TWN',
 	-- Central Asia
 	'KAZ','KGZ','TJK','UZB','TKM',
-	-- Indian subcontinent
-	'IND','BGD','BTN','PAK','NPL','LKA',
+	-- South Asia
+	'AFG','BGD','BTN','IND','PAK','NPL','LKA',
 	-- SE Asia
 	'PNG','PHL','IDN','KHM','THA','LAO',
 	'VNM','MMR','MYS','BRN','SGP',
 	-- Oceania
 	'AUS','NZL','PNG','SLB','VUT','NCL','FJI','TLS',
+	'COK','MDV','FSM','KIR','NRU','NIU','WSM','TON',
 	-- etc
 	'ATA','RUS',
 	-- Northern Europe (ish)
